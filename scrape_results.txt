@@ -1,1 +1,1 @@
-vattenfall,monthly_price,€ 1.399,49 p.m.,9722wc,10,5000,3000
+timestamp;site;type;value;postcode;huisnr;elec_use;gas_use
