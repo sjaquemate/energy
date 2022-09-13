@@ -1,7 +1,1 @@
 timestamp;site;type;value;postcode;huisnr;elec_use;gas_use
-2022-09-13 00:50:16.397649;vattenfall;monthly_price;� 1.399,49 p.m.;9722wc;10;5000;3000
-2022-09-13 00:50:16.397649;vattenfall;monthly_price;� 1.399,49 p.m.;9722wc;10;2000;3000
-2022-09-13 00:50:16.397649;vattenfall;monthly_price;� 1.399,49 p.m.;9722wc;10;5000;6000
-2022-09-13 00:50:16.397649;vattenfall;monthly_price;� 1.399,49 p.m.;9722wc;10;5000;6000
-2022-09-13 13:30:29.737475;vattenfall;monthly_price;� 1.399,49 p.m.;9722wc;10;5000;3000
-2022-09-13 13:32:28.017707;vattenfall;monthly_price;� 1.399,49 p.m.;9722wc;10;5000;3000
